@@ -1,0 +1,5 @@
+server:
+    port: 44400
+
+sample:
+    text: Test
